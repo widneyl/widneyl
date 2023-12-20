@@ -1,6 +1,7 @@
-### Hello World!!🌎
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!!;Welcome!)](https://git.io/typing-svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=widneyl&show_icons=true&theme=tokyonight&hide=contribs"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=widneyl&show_icons=true&theme=radical&hide=contribs"/>
 </a>
 <br>
  
