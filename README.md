@@ -1,7 +1,4 @@
-<div style="display: inline_block"><br/>
-<img aling="center" alt="html5" src="/home/wy/Documentos/Curso Git/gifs/oie_aiiZITLtdM8D.gif" />
-</div>
-
+### Hello World!!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=widneyl&show_icons=true&theme=tokyonight&hide=contribs"/>
 </a>
