@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br/>
-<img heigth=50 aling="center" alt="html5" src="/home/wy/Documentos/Curso Git/gifs/hello-world.gif" />
+<img aling="center" alt="html5" src="/home/wy/Documentos/Curso Git/gifs/oie_aiiZITLtdM8D.gif" />
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,9 +7,12 @@
 </a>
 <br>
  
-  
-<div style="display: inline_block"><br/>
+ ## Current technologies 
+ 
+<div style="display: inline_block">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img aling="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br>
+"Trabalhe duro, divirta-se e faça história." Jeff Bezos
 
