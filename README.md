@@ -17,5 +17,3 @@
 </div><br>
 "Trabalhe duro, divirta-se e faça história." Jeff Bezos
 
-# ![snake gif](https://github.com/widneyl/widneyl/blob/output/github-contribution-grid-snake.gif)
-
