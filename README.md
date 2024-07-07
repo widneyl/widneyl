@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!!;Welcome!)](https://git.io/typing-svg)
 
-# ![snake gif](https://github.com/widneyl/widneyl/blob/output/github-contribution-grid-snake.gif)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=widneyl&show_icons=true&theme=radical&hide=contribs"/>
 </a>
@@ -18,4 +16,6 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br>
 "Trabalhe duro, divirta-se e faça história." Jeff Bezos
+
+# ![snake gif](https://github.com/widneyl/widneyl/blob/output/github-contribution-grid-snake.gif)
 
