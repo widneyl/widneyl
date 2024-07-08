@@ -16,4 +16,7 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br>
 "Trabalhe duro, divirta-se e faça história." Jeff Bezos
+<br><br>
+
+![snake gif](https://github.com/widneyl/widneyl/blob/output/github-contribution-grid-snake.svg)
 
